@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ivanaf03/ivanaf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello, World! 👋
+
+I am a Software Engineering student. Currently, I study at the Faculty of Computer Science in Coruña (FIC).
+
+I use my GitHub to have a backup of my notes, by the way, made in Markdown with Obsidian, and to upload exercises and projects that I work on over time.
+
+📍 **Lugo / A Coruña, Spain**
+
+## Stats
+[https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie](https://github-profile-trophy.vercel.app/?username=ivanaf03&theme=oldie)https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie
