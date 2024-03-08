@@ -23,4 +23,4 @@ I use my GitHub to have a backup of my notes, by the way, made in Markdown with 
 
 ## Stats
 
-https://github-profile-trophy.vercel.app/?username=ivanaf03&theme=oldie
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
