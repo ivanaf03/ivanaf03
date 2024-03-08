@@ -46,9 +46,9 @@ I have some experience with:
 + MatLab / Octave ➗
 
 ## Skills
-+ I love web development, frontend and design.
-+ I am good at working in a team.
-+ I am organized, clean and tidy.
++ I love web development, frontend and design
++ I am good at working in a team
++ I am organized, clean and tidy
 
 ## Weakness
 Personally, I believe everyone has some weaknesses. In my case, I think it's functional programming.
