@@ -29,3 +29,21 @@ I use my GitHub to have a backup of my notes, by the way, made in Markdown with 
 
 ## Profile views (since 03/08/2024)
 ![](https://komarev.com/ghpvc/?username=ivanaf03&color=green)
+
+## Languages
+I have a lot of experience in:
++ C ✳️
++ Java ☕
+
+I am proficient in programming with:
++ HTML+CSS+JS 💻
++ Elixir 💧
+
+I have some experience with:
++ GTK with Python 🐍
++ OCaml 🐫
++ GameMaker Language 🎮
++ MatLab / Octave ➗
+
+## Skills
+
