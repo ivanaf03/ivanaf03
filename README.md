@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hello, World! 👋
 
-I am a Software Engineering student. Currently, I study at the Faculty of Computer Science in Coruña (FIC).
+I am a Software Engineering student. Currently, I study at the University of Computer Science in Coruña (FIC).
 
 I use my GitHub to have a backup of my notes, by the way, made in Markdown with Obsidian, and to upload exercises and projects that I work on over time.
 
