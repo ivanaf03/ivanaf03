@@ -45,8 +45,6 @@ I have some experience with:
 + GameMaker Language 🎮
 + MatLab / Octave ➗
 
-[![My stats](https://github-readme-stats.vercel.app/api/wakatime?username=ivanaf03)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Skills
 + I love web development, frontend and design
 + I am good at working in a team
