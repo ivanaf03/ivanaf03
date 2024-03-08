@@ -33,7 +33,7 @@ I use my GitHub to have a backup of my notes, by the way, made in Markdown with 
 ## Languages
 I have a lot of experience in:
 + C ✳️
-+ Java ☕
++ Java and some Java frameworks☕
 
 I am proficient in programming with:
 + HTML+CSS+JS 💻
@@ -42,6 +42,7 @@ I am proficient in programming with:
 I have some experience with:
 + GTK with Python 🐍
 + OCaml 🐫
++ Dart in Flutter 📱
 + GameMaker Language 🎮
 + MatLab / Octave ➗
 
