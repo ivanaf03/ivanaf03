@@ -46,4 +46,7 @@ I have some experience with:
 + MatLab / Octave ➗
 
 ## Skills
-
++ [p] I love web development, frontend and design.
++ I am good at working in a team.
++ I am organized, clean and tidy.
++ 
