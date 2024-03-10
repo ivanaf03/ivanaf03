@@ -34,7 +34,8 @@ I use my GitHub to have a backup of my notes, by the way, made in Markdown with 
 I have a lot of experience in:
 + C ✳️
 + Java and some Java frameworks ☕
-+ Oracle SQL
++ Oracle SQL 📊
+
 
 I am proficient in programming with:
 + HTML+CSS+JS 💻
