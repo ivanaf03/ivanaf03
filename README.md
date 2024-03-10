@@ -27,7 +27,7 @@ I use my GitHub to have a backup of my notes, by the way, made in Markdown with 
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ivanaf03&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Profile views (since 03/08/2024)
+## Profile views (since 08/March/2024)
 ![](https://komarev.com/ghpvc/?username=ivanaf03&color=green)
 
 ## Languages
