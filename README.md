@@ -39,7 +39,8 @@ I have a lot of experience in:
 I am proficient in programming with:
 + HTML+CSS+JS 💻
 + Elixir 💧
-+ MySQL
++ MySQL 📊
+
 
 I have some experience with:
 + GTK with Python 🐍
