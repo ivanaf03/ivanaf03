@@ -43,7 +43,7 @@ I am proficient in programming with:
 + MySQL 📊
 
 
-I have some experience with:
+I have used:
 + GTK with Python 🐍
 + OCaml 🐫
 + Dart in Flutter 📱
