@@ -47,7 +47,6 @@ I have used:
 + GTK with Python 🐍
 + OCaml 🐫
 + Dart in Flutter 📱
-+ GameMaker Language 🎮
 + MatLab / Octave ➗
 
 ## Skills
