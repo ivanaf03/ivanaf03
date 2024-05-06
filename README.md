@@ -41,6 +41,7 @@ I am proficient in programming with:
 + HTML+CSS+JS 💻
 + Elixir 💧
 + MySQL 📊
++ React ⚛️
 
 
 I have used:
@@ -48,6 +49,7 @@ I have used:
 + OCaml 🐫
 + Dart in Flutter 📱
 + MatLab / Octave ➗
++ PostgreSQL + Python DB Access 📊
 
 ## Skills
 + I love web development, frontend and design
