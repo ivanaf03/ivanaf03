@@ -31,13 +31,13 @@ I use my GitHub to have a backup of my notes, by the way, made in Markdown with 
 ![](https://komarev.com/ghpvc/?username=ivanaf03&color=green)
 
 ## Languages
-I have a lot of experience in:
+I have worked a lot with:
 + C ✳️
 + Java and some Java frameworks ☕
 + Oracle SQL 📊
 
 
-I am proficient in programming with:
+I like programming with:
 + HTML+CSS+JS 💻
 + Elixir 💧
 + MySQL 📊
