@@ -44,7 +44,7 @@ I like programming with:
 + React ⚛️
 
 
-I have used:
+I have studied in University:
 + GTK with Python 🐍
 + OCaml 🐫
 + Dart in Flutter 📱
