@@ -35,14 +35,12 @@ I have worked a lot with:
 + C ✳️
 + Java and some Java frameworks ☕
 + Oracle SQL 📊
-
++ React ⚛️
 
 I like programming with:
 + HTML+CSS+JS 💻
 + Elixir 💧
 + MySQL 📊
-+ React ⚛️
-
 
 I have studied in University:
 + GTK with Python 🐍
