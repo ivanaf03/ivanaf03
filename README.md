@@ -33,7 +33,7 @@ I use my GitHub to have a backup of my notes, by the way, made in Markdown with 
 ## Languages
 I have worked a lot with:
 + C ✳️
-+ Java and some Java frameworks ☕
++ Java and Spring ☕
 + Oracle SQL 📊
 + React ⚛️
 
