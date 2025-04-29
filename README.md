@@ -30,29 +30,14 @@ I use my GitHub to have a backup of my notes, by the way, made in Markdown with 
 ## Profile views (since 08/March/2024)
 ![](https://komarev.com/ghpvc/?username=ivanaf03&color=green)
 
-## Languages
-I have worked a lot with:
-+ C ✳️
-+ Java and Spring ☕
-+ Oracle SQL 📊
-+ React ⚛️
-
-I like programming with:
-+ HTML+CSS+JS 💻
-+ Elixir 💧
-+ MySQL 📊
-
-I have studied in University:
-+ GTK with Python 🐍
-+ OCaml 🐫
-+ Dart in Flutter 📱
-+ MatLab / Octave ➗
-+ PostgreSQL + Python DB Access 📊
-
 ## Skills
-+ I love web development, frontend and design
-+ I am good at working in a team
-+ I am organized, clean and tidy
++ React ⚛️
++ React Native and Expo 📱
++ Java and Spring Boot ☕
++ Relational databases 📊
++ HTML5 + CSS3 + JS 💻
 
-## Weakness
-Personally, I believe everyone has some weaknesses. In my case, I think it's functional programming.
+## About me
++ I am passionate about web development, particularly frontend development and design.
++ I excel in team environments and thrive when working with agile methodologies.
++ I am organized, detail-oriented, and maintain a clean and tidy workspace.
