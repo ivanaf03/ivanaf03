@@ -1,11 +1,21 @@
-Hi there, I'm Ivan! 👋
+# Hi there, I'm Ivan! 👋
 
-🚀 Mobile && Frontend Developer
+##🚀 Mobile && Frontend Developer
 I'm a passionate Software Engineering student currently focused on building intuitive and impactful user interfaces. I'm part of the development team at Innogando, where I contribute as a Frontend Developer for the Rumi App project.
 
 I use this space to document my learning journey, backup my technical notes, and showcase projects that help me push my programming boundaries.
 
 📍 **A Fonsagrada, Lugo, Galicia, Spain**
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivanaf03/ivanaf03/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivanaf03/ivanaf03/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ivanaf03/ivanaf03/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ## Profile views (since 08/March/2024)
 ![](https://komarev.com/ghpvc/?username=ivanaf03&color=green)
