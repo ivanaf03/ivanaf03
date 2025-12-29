@@ -1,43 +1,25 @@
-<!--
-**ivanaf03/ivanaf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Ivan! 👋
 
-Here are some ideas to get you started:
+🚀 Mobile && Frontend Developer
+I'm a passionate Software Engineering student currently focused on building intuitive and impactful user interfaces. I'm part of the development team at Innogando, where I contribute as a Frontend Developer for the Rumi App project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use this space to document my learning journey, backup my technical notes, and showcase projects that help me push my programming boundaries.
 
-# Hello, World! 👋
-
-I am a Software Engineering student. Currently, I study at the University of Computer Science in Coruña (FIC).
-
-I use my GitHub to have a backup of my notes, by the way, made in Markdown with Obsidian, and to upload exercises and projects that I work on over time.
-
-📍 **Lugo / A Coruña, Spain**
-
-## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanaf03&show_icons=true&theme=transparent)
-
-## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ivanaf03&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+📍 **A Fonsagrada, Lugo, Galicia, Spain**
 
 ## Profile views (since 08/March/2024)
 ![](https://komarev.com/ghpvc/?username=ivanaf03&color=green)
 
 ## Skills
 + React ⚛️
++ Flutter with Riverpod for state management 📲
 + React Native and Expo 📱
 + Java and Spring Boot ☕
 + Relational databases 📊
 + HTML5 + CSS3 + JS 💻
 
 ## About me
-+ I am passionate about web development, particularly frontend development and design.
-+ I excel in team environments and thrive when working with agile methodologies.
-+ I am organized, detail-oriented, and maintain a clean and tidy workspace.
++ 🎨 Frontend Enthusiast: I have a deep passion for web development and UI/UX design.
++ 🤝 Team Player: I thrive in collaborative environments and I'm well-versed in Agile methodologies.
++ ✨ Detail Oriented: I pride myself on being organized, writing clean code, and maintaining a tidy workspace.
++ 📚 Lifelong Learner: I am committed to continuous improvement, constantly updating my skills and staying ahead of the curve with the latest trends in the ever-evolving tech ecosystem.
