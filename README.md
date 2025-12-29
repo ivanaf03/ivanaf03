@@ -123,6 +123,6 @@ I'm part of the development team at **Innogando**, where I work in **Rumi App**
 
 ### 📊 GitHub Stats
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanaf03&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="ivanaf03" />
+<img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=ivanaf03&" alt="ivanaf03" />
 
 </div>
